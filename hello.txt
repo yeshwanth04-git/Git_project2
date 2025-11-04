@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hii guys good to see you again
+=======
+hii everybody nice to get to together!!!
+>>>>>>> feb61b67f5b0af7470dbad23c571c7f8f56a146c
